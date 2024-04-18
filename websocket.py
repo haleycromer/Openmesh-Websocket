@@ -167,14 +167,3 @@ haleycromer@Haleys-MacBook-Pro ~ % >....
                 os.Exit(1)
         }
 }
-
-zsh: parse error near `}'
-haleycromer@Haleys-MacBook-Pro ~ % go run temperature_converter.go <temperature> <unit>
-
-zsh: parse error near `<'
-haleycromer@Haleys-MacBook-Pro ~ % go run tempconverter.go <temperature> <unit>
-zsh: parse error near `<'
-haleycromer@Haleys-MacBook-Pro ~ % go run tempconverter.go <temperature> <unit>
- 
-zsh: parse error near `<'
-haleycromer@Haleys-MacBook-Pro ~ % 
